@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.input-text {
+  width: 3ch; /* 텍스트가 3자리까지 입력되도록 설정 */
+}
+
+.resert {
+	
+}
